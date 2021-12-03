@@ -1,5 +1,17 @@
 <h1>Tarefas - Kotlin</h1>
 
+<a href="Prints/app-debug.apk" download="Task.apk">Download do aplicativo</a>
+
+<br><br><br>
+<h2>Tecnologia</h2>
+<ul>
+  <li>MVVM</li>
+  <li>Retrofit</li>
+  <li>SQLite</li>
+  <li>Navigation</li>
+  <li>Fingerprint - Autenticação biométrica</li>
+</ul>
+<br>
 
 <br><br><br>
 <h2>Tela de Login</h2>
@@ -32,7 +44,7 @@
 <br>
 
 <br><br><br>
-<h2>Tela de lstagem de Tasks</h2>
+<h2>Tela de listagem de Tasks</h2>
 <br>
 <img src="Prints/06 Tela de listagem.gif">
 <br>
