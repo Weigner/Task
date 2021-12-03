@@ -1,7 +1,5 @@
 <h1>Tarefas - Kotlin</h1>
 
-<br><br><br>
-<h2>Tela de listagem de raças de cães</h2>
 
 <br><br><br>
 <h2>Tela de Login</h2>
