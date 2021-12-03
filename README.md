@@ -3,7 +3,7 @@
 <br><br><br>
 <h2>Tela de listagem de raças de cães</h2>
 <br>
-<img src="Prints/01 Tela Login.png">
+<img style="width: 100px" src="Prints/01 Tela Login.png">
 <br>
 <img src="prints/04.jpeg">
 
