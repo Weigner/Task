@@ -8,7 +8,8 @@
   <li>MVVM</li>
   <li>Retrofit</li>
   <li>SQLite</li>
-  <li>Shared Preferences</li>
+  <li>Navigation</li>
+  <li>Fingerprint - Autenticação biométrica</li>
 </ul>
 <br>
 
