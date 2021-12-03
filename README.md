@@ -5,9 +5,10 @@
 <br><br><br>
 <h2>Tecnologia</h2>
 <ul>
-  <li>teste</li>
-  <li>teste</li>
-  <li>teste</li>
+  <li>MVVM</li>
+  <li>Retrofit</li>
+  <li>SQLite</li>
+  <li>Shared Preferences</li>
 </ul>
 <br>
 
