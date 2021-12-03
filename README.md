@@ -32,7 +32,7 @@
 <br>
 
 <br><br><br>
-<h2>Tela de lstagem de Tasks</h2>
+<h2>Tela de listagem de Tasks</h2>
 <br>
 <img src="Prints/06 Tela de listagem.gif">
 <br>
