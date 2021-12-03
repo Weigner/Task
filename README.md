@@ -1,6 +1,6 @@
 <h1>Tarefas - Kotlin</h1>
 
-<a href="Prints/app-debug.apk" download="Task.apk">Download do APK do aplicativo</a>
+<a href="Prints/app-debug.apk" download="Task.apk">Download do aplicativo</a>
 
 <br><br><br>
 <h2>Tecnologia</h2>
