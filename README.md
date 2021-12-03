@@ -3,6 +3,15 @@
 <a href="Prints/app-debug.apk" download="Task.apk">Download do APK do aplicativo</a>
 
 <br><br><br>
+<h2>Tecnologia</h2>
+<ul>
+  <li>teste</li>
+  <li>teste</li>
+  <li>teste</li>
+</ul>
+<br>
+
+<br><br><br>
 <h2>Tela de Login</h2>
 <br>
 <img style="width: 400px" src="Prints/01 Tela Login.png">
