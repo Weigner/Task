@@ -123,7 +123,7 @@ class MainActivity : AppCompatActivity() {
         })
 
         val info: BiometricPrompt.PromptInfo = BiometricPrompt.PromptInfo.Builder()
-            .setTitle("Titulo")
+            .setTitle("Biometria")
             .setSubtitle("")
             .setDescription("")
             .setNegativeButtonText("Cancelar")
